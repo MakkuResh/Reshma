@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics, Data Science, and AI-powered applications<br><br>👯 I’m looking to collaborate on AI, Machine Learning, Generative AI, and Agentic AI projects<br><br>💼 I’m actively seeking Data Analyst, Data Science, and AI/ML Engineer opportunities<br><br>🌱 I’m currently learning Agentic AI, LLM Applications, RAG Pipelines, LangGraph, LangChain, and modern AI frameworks<br><br>💬 Ask me about Python, SQL, Data Visualization, Machine Learning, and Artificial Intelligence<br><br>⚡ Fun fact: I love exploring emerging AI technologies and building data-driven solutions
+🔭 I’m currently looking for  Data Analytics, Data Science, and AI-powered applications<br><br>👯 I’m looking to collaborate on AI, Machine Learning, Generative AI, and Agentic AI projects<br><br>💼 I’m actively seeking Data Analyst, Data Science, and AI/ML Engineer opportunities<br><br>🌱 I’m currently learning Agentic AI, LLM Applications, RAG Pipelines, LangGraph, LangChain, and modern AI frameworks<br><br>💬 Ask me about Python, SQL, Data Visualization, Machine Learning, and Artificial Intelligence<br><br>⚡ Fun fact: I love exploring emerging AI technologies and building data-driven solutions
 
 
 # 💻 Tech Stack:
